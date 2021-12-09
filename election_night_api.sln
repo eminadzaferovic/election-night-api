@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "election_night_api", "election_night_api\election_night_api.csproj", "{561037CB-CCCF-411F-AEA0-B63B8BF342E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{561037CB-CCCF-411F-AEA0-B63B8BF342E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{561037CB-CCCF-411F-AEA0-B63B8BF342E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{561037CB-CCCF-411F-AEA0-B63B8BF342E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{561037CB-CCCF-411F-AEA0-B63B8BF342E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19E74C03-5AFD-4B18-AB61-C21C4FC09451}
+	EndGlobalSection
+EndGlobal
